@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(10, 30, 50, 0.3);
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 50px;
+  color: crimson;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+li {
+  color: green;
+  font-family: Arial;
+  font-weight: bold;
+}
